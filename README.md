@@ -27,7 +27,7 @@
 
 ## Circuit Diagram / Wiring
 
-![Circuit Diagram](ใส่รูปภาพแผนผังวงจรของคุณที่นี่)
+![UI Demo](https://github.com/kudane/arduino-tachometer-oled/blob/main/image.JPG)
 
 ### 1. การต่อจอ OLED (I2C)
 | OLED Pin | Arduino Nano Pin |
