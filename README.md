@@ -56,7 +56,7 @@
 
 ---
 
-## 📚 Libraries Required
+## Libraries Required
 โปรเจกต์นี้จำเป็นต้องติดตั้ง Library ผ่าน Arduino IDE Library Manager ดังนี้:
 - `Adafruit_GFX.h`
 - `Adafruit_SSD1306.h`
