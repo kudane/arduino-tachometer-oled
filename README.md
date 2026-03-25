@@ -26,7 +26,7 @@
 ---
 
 ## Circuit Diagram / Wiring
-
+![Circuit](https://github.com/kudane/arduino-tachometer-oled/blob/main/diagram.JPG)
 ![UI Demo](https://github.com/kudane/arduino-tachometer-oled/blob/main/image.JPG)
 
 ### 1. การต่อจอ OLED (I2C)
